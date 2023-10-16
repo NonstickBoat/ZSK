@@ -1,2 +1,2 @@
 # ZSK
-Zawiera pliki z szkoły
+Contains some files created during classes.
